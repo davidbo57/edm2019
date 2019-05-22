@@ -1,11 +1,12 @@
-# Automated Student Assessment Prize
+## Automated Student Assessment Prize
 https://www.kaggle.com/c/asap-aes
 
----
-# Suite of Automatic Linguistic Analysis Tools
+## Suite of Automatic Linguistic Analysis Tools
 https://www.linguisticanalysistools.org/
 
 Crossley, S.A., Kyle, K., Davenport, J.L. and McNamara, D.S., 2016, June. Automatic Assessment of Constructed Response Data in a Chemistry Tutor. In EDM (pp. 336-340). Tavel, P. 2007. Modeling and Simulation Design.
+
+Crossley, S.A., Kyle, K. and McNamara, D.S., 2016. The tool for the automatic analysis of text cohesion (TAACO): Automatic assessment of local, global, and text cohesion. Behavior research methods, 48(4), pp.1227-1237.
 
 Kyle, K., Crossley, S. and Berger, C., 2018. The tool for the automatic analysis of lexical sophistication (TAALES): version 2.0. Behavior research methods, 50(3), pp.1030-1046.
 
@@ -13,10 +14,7 @@ Kyle, K., 2016. Measuring syntactic development in L2 writing: Fine grained indi
 
 Lu, X., 2010. Automatic analysis of syntactic complexity in second language writing. International journal of corpus linguistics, 15(4), pp.474-496.
 
-Crossley, S.A., Kyle, K. and McNamara, D.S., 2016. The tool for the automatic analysis of text cohesion (TAACO): Automatic assessment of local, global, and text cohesion. Behavior research methods, 48(4), pp.1227-1237.
-
----
-# The 96 Most Correlated (Spearman) Writing Features with Essay Holistic Scores
+## The 96 Most Correlated (Spearman) Writing Features with Essay Holistic Scores
 
 Rank|Tool|Spearman's Rho|Writing Feature ID|Writing Feature Description|Category
 ---|---|---:|---|---|---
