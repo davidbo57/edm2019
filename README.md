@@ -18,9 +18,8 @@ Kyle, K., 2016. Measuring syntactic development in L2 writing: Fine grained indi
 Lu, X., 2010. Automatic analysis of syntactic complexity in second language writing. International journal of corpus linguistics, 15(4), pp.474-496.
 
 ## The 96 Most Correlated (Spearman) Writing Features with Essay Holistic Scores
-Scoring scale: 10-60
-
 Essay dataset: #8
+* Scoring scale: 10-60
 * Grade 10
 * Narrative
 * 622 words (mean number of words)
