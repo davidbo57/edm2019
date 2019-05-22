@@ -2,7 +2,7 @@
 Boulanger, D., & Kumar V. (2019, accepted). Shedding Light on the Automated Essay Scoring Process. In Proceedings of the 2019 International Conference on Educational Data Mining (EDM), Poster, July 2-5, Montreal, Canada.
 
 ## Automated Student Assessment Prize (ASAP)
-The ASAP's essay datatsets are available at https://www.kaggle.com/c/asap-aes.
+The ASAP's essay datatsets are available at https://www.kaggle.com/c/asap-aes. In particular, this paper investigated the viability of the eighth essay dataset.
 
 ## Suite of Automatic Linguistic Analysis Tools (SALAT)
 For more information on the software tools used to extract the writing features used in this paper, please visit https://www.linguisticanalysistools.org/. These tools are also described in depth in the following papers:
@@ -18,7 +18,7 @@ Kyle, K., 2016. Measuring syntactic development in L2 writing: Fine grained indi
 Lu, X., 2010. Automatic analysis of syntactic complexity in second language writing. International journal of corpus linguistics, 15(4), pp.474-496.
 
 ## The 96 Most Correlated (Spearman) Writing Features with Essay Holistic Scores
-### Essay dataset: #8
+### Essay dataset #8
 * Scoring scale: 10-60
 * Grade 10
 * Narrative
