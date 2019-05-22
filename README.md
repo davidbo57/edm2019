@@ -2,10 +2,10 @@
 Boulanger, D., & Kumar V. (2019, accepted). Shedding Light on the Automated Essay Scoring Process. In Proceedings of the 2019 International Conference on Educational Data Mining (EDM), Poster, July 2-5, Montreal, Canada.
 
 ## Automated Student Assessment Prize
-https://www.kaggle.com/c/asap-aes
+The ASAP's essay datatsets are available at https://www.kaggle.com/c/asap-aes.
 
 ## Suite of Automatic Linguistic Analysis Tools
-https://www.linguisticanalysistools.org/
+For more information on the software tools used to extract the writing features used in this paper, please visit https://www.linguisticanalysistools.org/. These tools are also described in depth in the following papers:
 
 Crossley, S.A., Kyle, K., Davenport, J.L. and McNamara, D.S., 2016, June. Automatic Assessment of Constructed Response Data in a Chemistry Tutor. In EDM (pp. 336-340). Tavel, P. 2007. Modeling and Simulation Design.
 
