@@ -19,6 +19,7 @@ Lu, X., 2010. Automatic analysis of syntactic complexity in second language writ
 
 ## The 96 Most Correlated (Spearman) Writing Features with Essay Holistic Scores
 Scoring scale: 10-60
+
 Essay dataset: #8 (Grade 10, Narrative, 622 words (mean number of words), rubric scores, no bias in the way holistic scores were resolved, tested writing ability of students)
 
 Rank|Tool|Spearman's Rho|Writing Feature ID|Writing Feature Description|Category
