@@ -1,5 +1,5 @@
-# International Conference on Educational Data Mining (2019) - Poster
-Boulanger, D., & Kumar V. (2019, accepted). Shedding Light on the Automated Essay Scoring Process. In Educational Data Mining (EDM 2019), Poster, July 2-5, Montreal, Canada. 
+# Educational Data Mining (2019) - Poster
+Boulanger, D., & Kumar V. (2019, accepted). Shedding Light on the Automated Essay Scoring Process. In Proceedings of the 2019 International Conference on Educational Data Mining (EDM), Poster, July 2-5, Montreal, Canada.
 
 ## Automated Student Assessment Prize
 https://www.kaggle.com/c/asap-aes
