@@ -1,3 +1,23 @@
+# Automated Student Assessment Prize
+https://www.kaggle.com/c/asap-aes
+
+---
+# Suite of Automatic Linguistic Analysis Tools
+https://www.linguisticanalysistools.org/
+
+Crossley, S.A., Kyle, K., Davenport, J.L. and McNamara, D.S., 2016, June. Automatic Assessment of Constructed Response Data in a Chemistry Tutor. In EDM (pp. 336-340). Tavel, P. 2007. Modeling and Simulation Design.
+
+Kyle, K., Crossley, S. and Berger, C., 2018. The tool for the automatic analysis of lexical sophistication (TAALES): version 2.0. Behavior research methods, 50(3), pp.1030-1046.
+
+Kyle, K., 2016. Measuring syntactic development in L2 writing: Fine grained indices of syntactic complexity and usage-based indices of syntactic sophistication.
+
+Lu, X., 2010. Automatic analysis of syntactic complexity in second language writing. International journal of corpus linguistics, 15(4), pp.474-496.
+
+Crossley, S.A., Kyle, K. and McNamara, D.S., 2016. The tool for the automatic analysis of text cohesion (TAACO): Automatic assessment of local, global, and text cohesion. Behavior research methods, 48(4), pp.1227-1237.
+
+---
+# The 96 Most Correlated (Spearman) Writing Features with Essay Holistic Scores
+
 Rank|Tool|Spearman's Rho|Writing Feature ID|Writing Feature Description|Category
 ---|---|---:|---|---|---
 1|TAALES|0.525|LD_Mean_RT_Zscore_CW|Lexical Decision Time (z-score) CW|Word Recognition Norms
@@ -28,7 +48,7 @@ Rank|Tool|Spearman's Rho|Writing Feature ID|Writing Feature Description|Category
 26|TAALES|-0.434|Brown_Freq_AW_Log|Brown Frequency AW Logarithm|Word Frequency
 27|TAALES|-0.434|TL_Freq_AW_Log|Thorndike-Lorge Frequency AW Logarithm|Word Frequency
 28|TAALES|-0.432|COCA_spoken_Range_AW|COCA Spoken Range AW|Word Range
-29|CRAT|0.432|nwords||
+29|CRAT|0.432|nwords|Number of words|
 30|TAALES|-0.432|Phono_N_H_CW|Phonological Neighbors (includes homonyms) CW|Word Neighbor Information
 31|TAALES|-0.431|SUBTLEXus_Range_CW|SUBTLEXus Range CW|Word Range
 32|TAALES|-0.427|Log_Freq_HAL|HAL Frequency Logarithm|Word Frequency
