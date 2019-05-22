@@ -86,14 +86,14 @@ Rank|Tool|Spearman's Rho|Writing Feature ID|Writing Feature Description|Category
 63|TAACO|-0.359|adjacent_overlap_all_sent|adjacent sentence overlap all lemmas|Lexical Overlap (Sentence)
 64|TAALES|-0.357|COCA_fiction_Frequency_Log_CW|COCA Fiction Frequency CW Logarithm|Word Frequency
 65|TAALES|0.355|LD_Mean_RT_SD_CW|Lexical Decision Time (standard deviation) CW|Word Recognition Norms
-66|TAASSC|-0.355|fic_av_lemma_freq_log|"average lemma frequency| log transformed - fiction"|Syntactic Sophistication
+66|TAASSC|-0.355|fic_av_lemma_freq_log|average lemma frequency, log transformed - fiction|Syntactic Sophistication
 67|TAALES|-0.353|COCA_news_Range_Log_AW|COCA News Range AW Logarithm|Word Range
 68|TAALES|-0.353|Brown_Freq_CW|Brown Frequency AW|Word Frequency
 69|TAALES|-0.352|COCA_magazine_Range_AW|COCA Magazine Range AW|Word Range
 70|TAACO|-0.351|adjacent_overlap_2_cw_sent|adjacent two-sentence overlap content lemmas|Lexical Overlap (Sentence)
 71|TAALES|-0.350|KF_Nsamp_AW|Kucera-Francis Range AW|Word Range
 72|TAALES|-0.349|KF_Freq_CW_Log|Kucera-Francis Frequency CW Logarithm|Word Frequency
-73|TAASSC|-0.345|news_av_lemma_freq_log|"average lemma frequency| log transformed - news"|Syntactic Sophistication
+73|TAASSC|-0.345|news_av_lemma_freq_log|average lemma frequency, log transformed - news|Syntactic Sophistication
 74|TAALES|-0.344|COCA_fiction_Range_Log_AW|COCA Fiction Range AW Logarithm|Word Range
 75|TAALES|-0.343|USF_CW|Free Association Stimuli Elicited CW|Contextual Distinctiveness
 76|TAACO|-0.342|prp_ttr|pronoun lemma TTR|TTR and Density
@@ -108,7 +108,7 @@ Rank|Tool|Spearman's Rho|Writing Feature ID|Writing Feature Description|Category
 85|TAALES|-0.337|COCA_news_Frequency_Log_CW|COCA News Frequency CW Logarithm|Word Frequency
 86|TAACO|-0.335|adjacent_overlap_2_all_sent|adjacent two-sentence overlap all lemmas|Lexical Overlap (Sentence)
 87|TAALES|-0.334|COCA_news_Range_CW|COCA News Range CW|Word Range
-88|TAASSC|-0.333|mag_av_lemma_freq_log|"average lemma frequency| log transformed - magazine"|Syntactic Sophistication
+88|TAASSC|-0.333|mag_av_lemma_freq_log|average lemma frequency, log transformed - magazine|Syntactic Sophistication
 89|SEANCE|0.330|Trngain_Lasswell_neg_3||Sentiment Analysis
 90|TAASSC|0.328|av_nsubj_pass_deps_NN|dependents per passive nominal subject (no pronouns)|Noun Phrase Complexity
 91|TAALES|0.327|COCA_fiction_bi_MI|COCA Fiction Bigram Association Strength (MI)|Ngram Association Strength
